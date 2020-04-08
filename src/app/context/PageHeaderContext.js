@@ -1,7 +1,7 @@
 import React from "react";
 
 const PageHeaderContext = React.createContext({
-    title: "sdfsd",
+    title: "Popular Series",
     setTitle: () => {}
 });
 
