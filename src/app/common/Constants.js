@@ -1,0 +1,2 @@
+export const seriesUrl = "https://raw.githubusercontent.com/StreamCo/react-coding-challenge/master/feed/sample.json";
+export const moviessUrl = "https://raw.githubusercontent.com/StreamCo/react-coding-challenge/master/feed/sample.json";

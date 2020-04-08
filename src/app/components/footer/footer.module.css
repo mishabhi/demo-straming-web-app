@@ -1,0 +1,51 @@
+.footer{
+    width: 100%;
+    background-color: black; 
+    height: 80px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;   
+    color: white;
+    text-align: center;    
+  }
+
+  .footerList {
+    position: relative;
+    margin: 1em;
+  }
+  .footerList ul {    
+      list-style-type: none;
+  }
+  .footerList li {
+    display: inline;
+    padding: 0 10px;
+    border-left: solid 1px white;   
+  }
+
+  .footerList ul li:first-child{
+    border-left: none;
+  }
+
+  .socialMedia{
+    width: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+  .socialMediaContainer{
+    float: left;
+  }
+
+  .store{
+    width: 105px;
+    margin-left: 20px;
+    margin-right: 25px;
+    margin-top: -60px;    
+  }
+
+  .storeContainer{
+    float: right
+  }
+  

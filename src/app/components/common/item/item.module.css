@@ -1,0 +1,25 @@
+.box{         
+  padding:20px;
+  margin-left: 30px;    
+  color: white;  
+  border: 1px solid black;        
+  background-position: center;
+  background-size: cover;
+  height: 300px; 
+  cursor: pointer; 
+}
+  
+
+.container{
+  margin-top:50px;
+  display: block;
+  width: 20%;
+  float: left;
+  height: 400px; 
+  color: black
+}
+
+.title{
+  margin-left: 40px;
+  font-size: 20px;  
+}
